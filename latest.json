@@ -1,6 +1,6 @@
 ﻿{
-    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android/main/releases/1.0.1/smartboard-sklink-debug.apk",
-    "changelog":  "Package renamed to com.sklink.smartboard, Firebase Android config hardened, updater/runtime stability fixes.",
-    "sha256":  "cc62fd8d947617f98bc08fab8c991aaab1e5c9c9c0e1d4cfcf712cd4bcbe775f",
-    "version":  "1.0.1"
+    "version":  "1.0.4",
+    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.4/smartboard-sklink-1.0.4.apk",
+    "sha256":  "82f800e5df2f848ebc815cf662834e349c2df20c378972e058efc0e5b588a2f3",
+    "changelog":  "Improve updater version checks, stabilize whiteboard state handling, and switch Android feed publishing to versioned APK artifacts."
 }
