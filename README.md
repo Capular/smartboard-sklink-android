@@ -1,20 +1,31 @@
-# SchoolX Smartboard Public Releases
+# Sklink Smartboard Android Public Feed
 
-This repository is the public update feed for SchoolX Smartboard PC.
+This repository is the public update feed for the Android smartboard app.
 
 ## Purpose
 
-- Host Velopack release artifacts (`*.nupkg`, setup exe, release manifests)
-- Provide update metadata consumed by installed Smartboard clients
-- Keep installer/update distribution public without exposing private source code
+- Host public APK files for installed smartboards
+- Host `latest.json` consumed by the in-app updater
+- Keep release distribution public without exposing private source code
+
+## Update Contract
+
+- Manifest path: `latest.json`
+- APK path pattern: `releases/<version>/smartboard-sklink-debug.apk`
+- Download model: installed apps fetch `latest.json`, compare version, download APK, verify SHA-256, then open Android install flow
 
 ## Repositories
 
-- Private source code: https://github.com/Capular/smartboard-schoolx-pc
-- Public releases/feed: https://github.com/Capular/smartboard-schoolx-pc-public
+- Private source code: local/private source repo
+- Public update feed: https://github.com/Capular/smartboard-sklink-android
 
-## Notes
+## Publishing
 
-- New app versions are built from the private source repository and published here via CI release workflow.
-- Smartboard clients check this repository feed before app startup.
+Use the helper script from the Android project:
+
+```powershell
+F:\Sklink\smartboard-sklink-android\scripts\publish-public-release.ps1 -Version 1.0.0 -Changelog "Initial Android smartboard release"
+```
+
+Then commit and push this repository.
 
