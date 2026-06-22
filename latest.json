@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.0.8",
-    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.8/smartboard-sklink-1.0.8.apk",
-    "sha256":  "2c98a8587123257c6f2254cd4f9149c8e90aa5b46fae9173ad3bbbb9f6c86f1a",
-    "changelog":  "Fix whiteboard launch crash and keep Android smartboard material filtering aligned with the PC smartboard flow."
+    "version":  "1.0.9",
+    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.9/smartboard-sklink-1.0.9.apk",
+    "sha256":  "c4ba424dd89e8fadf30359eae7dde5c0f5c96f38ad7810d88e69715f20f533b1",
+    "changelog":  "Improve whiteboard toolbar layout and speed up material sync consistency."
 }
