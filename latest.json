@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.0.7",
-    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.7/smartboard-sklink-1.0.7.apk",
-    "sha256":  "2645d2a25dd542123683efa9598f2243618f83879e6e3d7d692972b9dac59935",
-    "changelog":  "Fix subject canonicalization across Officials, grant admin repair-safe access, and align Android smartboard material filtering with the PC smartboard flow."
+    "version":  "1.0.8",
+    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.8/smartboard-sklink-1.0.8.apk",
+    "sha256":  "2c98a8587123257c6f2254cd4f9149c8e90aa5b46fae9173ad3bbbb9f6c86f1a",
+    "changelog":  "Fix whiteboard launch crash and keep Android smartboard material filtering aligned with the PC smartboard flow."
 }
