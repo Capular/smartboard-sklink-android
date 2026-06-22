@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.0.6",
-    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.6/smartboard-sklink-1.0.6.apk",
-    "sha256":  "e39f9df11abe0d46b13d44b056bb16c603d118f81cc07f16a3d813e770b6ab03",
-    "changelog":  "Fix Android smartboard material filtering to match PC behavior, repair mirrored material metadata for teacher-scoped files, and refresh Android lock-state handling."
+    "version":  "1.0.7",
+    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.7/smartboard-sklink-1.0.7.apk",
+    "sha256":  "2645d2a25dd542123683efa9598f2243618f83879e6e3d7d692972b9dac59935",
+    "changelog":  "Fix subject canonicalization across Officials, grant admin repair-safe access, and align Android smartboard material filtering with the PC smartboard flow."
 }
