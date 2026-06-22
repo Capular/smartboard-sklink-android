@@ -1,6 +1,6 @@
 {
-    "version": "1.0.13",
-    "apkUrl": "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.13/smartboard-sklink-1.0.13.apk",
-    "sha256": "282ddcfefdf6ea822a29bcaa87c5eeed948f9aad9d9c9ecd97d7788b1887bed9",
-    "changelog": "Refine the whiteboard toolbar docks, move pen and eraser controls into tool popups, replace inline adjust with settings, and fix Python runner execution."
+    "version": "1.0.14",
+    "apkUrl": "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.14/smartboard-sklink-1.0.14.apk",
+    "sha256": "9387184d4888f120a722377d522a3d5245cd97cf976d148a0f599c2e1e2364a8",
+    "changelog": "Fix in-app updater visibility and manifest refresh so update checks show real status and avoid stale latest.json reads."
 }
