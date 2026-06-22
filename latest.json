@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.11",
-    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.11/smartboard-sklink-1.0.11.apk",
-    "sha256":  "2e91335f9cadc03a2a621afd4f090e1585812e483e901828332b6212bcf24a5c",
-    "changelog":  "Anchor whiteboard split toolbar groups to the bottom-left, bottom-center, and bottom-right positions."
+    "version": "1.0.12",
+    "apkUrl": "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.12/smartboard-sklink-1.0.12.apk",
+    "sha256": "fa7434221294f817944472cfa3fb9c35e010a331d98d841b02bca9122af8efe5",
+    "changelog": "Fix whiteboard launch flow, add timer and loading progress, improve continuous-scroll PDF viewing, and stabilize the Python runtime."
 }
