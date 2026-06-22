@@ -1,6 +1,6 @@
-{
-    "version": "1.0.14",
-    "apkUrl": "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.14/smartboard-sklink-1.0.14.apk",
-    "sha256": "9387184d4888f120a722377d522a3d5245cd97cf976d148a0f599c2e1e2364a8",
-    "changelog": "Fix in-app updater visibility and manifest refresh so update checks show real status and avoid stale latest.json reads."
+﻿{
+    "version":  "1.0.15",
+    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.15/smartboard-sklink-1.0.15.apk",
+    "sha256":  "66faedb3fde3ffc72c91904a9f70d0618b32f6ac7ff816817322a5b204088dc9",
+    "changelog":  "Refine whiteboard toolbar popups, settings dialog, Python runner, and PDF hand zoom behavior."
 }
