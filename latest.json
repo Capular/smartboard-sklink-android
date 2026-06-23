@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.18",
-    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.18/smartboard-sklink-1.0.18.apk",
-    "sha256":  "47121bdd0cb8e8bd34a6d8528f95751f890c21e4a8218d94c75653bc0da39e81",
-    "changelog":  "Refine whiteboard toolbar sizing, remove the highlighter, add marquee selection, improve eraser controls, and show a proper study material opening loader."
+    "version":  "1.0.19",
+    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.19/smartboard-sklink-1.0.19.apk",
+    "sha256":  "5742a762c1b6616c7b6dc6978494bf7fcd146862d18b14393892a6c31ddabc8e",
+    "changelog":  "Refine whiteboard toolbar sizing and white styling, simplify selected-tool feedback, update eraser icon, compact the study materials header, and reset study materials to subjects from the sidebar."
 }
