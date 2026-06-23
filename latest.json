@@ -1,6 +1,6 @@
 ﻿{
-    "version":  "1.0.16",
-    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.16/smartboard-sklink-1.0.16.apk",
-    "sha256":  "bcf6c77f536484cae7b6643ef84ec3e081e0b8e7fcc5c0e2ce5ba0675e64138d",
-    "changelog":  "Improve PDF scrolling and zoom behavior, add page overview previews, and simplify document loading progress."
+    "version":  "1.0.17",
+    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.17/smartboard-sklink-1.0.17.apk",
+    "sha256":  "9e883bab34814fa0c6520245cf53e95bb60e6803f9fe313c44d86856887e0583",
+    "changelog":  "Move updater into Settings, refine whiteboard toolbar layout, improve pinch zoom stability, and virtualize PDF page rendering for large documents."
 }
