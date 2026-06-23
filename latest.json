@@ -1,6 +1,6 @@
-﻿{
-    "version":  "1.0.17",
-    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.17/smartboard-sklink-1.0.17.apk",
-    "sha256":  "9e883bab34814fa0c6520245cf53e95bb60e6803f9fe313c44d86856887e0583",
-    "changelog":  "Move updater into Settings, refine whiteboard toolbar layout, improve pinch zoom stability, and virtualize PDF page rendering for large documents."
+{
+    "version":  "1.0.18",
+    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.18/smartboard-sklink-1.0.18.apk",
+    "sha256":  "47121bdd0cb8e8bd34a6d8528f95751f890c21e4a8218d94c75653bc0da39e81",
+    "changelog":  "Refine whiteboard toolbar sizing, remove the highlighter, add marquee selection, improve eraser controls, and show a proper study material opening loader."
 }
