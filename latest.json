@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.22",
-    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.22/smartboard-sklink-1.0.22.apk",
-    "sha256":  "e45114eadb568dfe2e1b739f843c3ae78ae1a7b578f2be4275ac45ba5d696abf",
-    "changelog":  "Add timetable page, simplify eraser menu, close page overview on canvas tap, and keep pen size stable while zooming."
+    "version":  "1.0.23",
+    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.23/smartboard-sklink-1.0.23.apk",
+    "sha256":  "3dc400e7c5b25e2ae81ea742f437efa0b403821f91fe3c79ecb7d74e1a799fcf",
+    "changelog":  "Refine whiteboard toolbar, smooth pen strokes, and make undo and redo work across pages."
 }
