@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.24",
-    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.24/smartboard-sklink-1.0.24.apk",
-    "sha256":  "94f46814ec04d6d5d2ed27a5ee39ce4352f173bc5eb07fb2d97fb04662205764",
-    "changelog":  "Add startup update prompt with resumable downloads and refresh SKlink branding on About page."
+    "version":  "1.0.25",
+    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.25/smartboard-sklink-1.0.25.apk",
+    "sha256":  "775a2967aa76c49ef774602826d693d2a71ab07542d1b3648d20c4ed944871c0",
+    "changelog":  "Update app branding assets, improve sidebar settings visibility, and redesign the About page."
 }
