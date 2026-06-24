@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.23",
-    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.23/smartboard-sklink-1.0.23.apk",
-    "sha256":  "3dc400e7c5b25e2ae81ea742f437efa0b403821f91fe3c79ecb7d74e1a799fcf",
-    "changelog":  "Refine whiteboard toolbar, smooth pen strokes, and make undo and redo work across pages."
+    "version":  "1.0.24",
+    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.24/smartboard-sklink-1.0.24.apk",
+    "sha256":  "94f46814ec04d6d5d2ed27a5ee39ce4352f173bc5eb07fb2d97fb04662205764",
+    "changelog":  "Add startup update prompt with resumable downloads and refresh SKlink branding on About page."
 }
