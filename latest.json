@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.20",
-    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.20/smartboard-sklink-1.0.20.apk",
-    "sha256":  "5367fda6ab4ab900df8f06e529c6d893b69467082050e57a344fdae673b4843c",
-    "changelog":  "Polish whiteboard popups, center the toolbar, improve right toolbar labels, move clear-page into the eraser menu, and add real page thumbnails to page overview."
+    "version":  "1.0.21",
+    "apkUrl":  "https://raw.githubusercontent.com/Capular/smartboard-sklink-android-public/main/releases/1.0.21/smartboard-sklink-1.0.21.apk",
+    "sha256":  "8ba2085276ae792a9e484cacefb370ca2b67265714f6660c196ef9780267d95d",
+    "changelog":  "Fix whiteboard toolbar touch pass-through, add About page, and tune slider and switch colors."
 }
